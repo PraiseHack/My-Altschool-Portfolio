@@ -7,7 +7,6 @@ load_dotenv()
 
 # connect to postgres DB
 
-
 def get_pg_creds():
     return {
         "user": os.environ.get("POSTGRES_USER"),
