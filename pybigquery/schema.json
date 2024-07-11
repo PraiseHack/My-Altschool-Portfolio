@@ -1,0 +1,27 @@
+[
+    {
+        "name": "transactionDate",
+        "type": "DATE"
+    },
+    {
+        "name": "description",
+        "type": "STRING"
+    },
+    {
+        "name": "category",
+        "type": "STRING"
+    },
+    {
+        "name": "debit",
+        "type": "FLOAT64"
+        
+    },
+    {
+        "name": "credit",
+        "type": "FLOAT64"
+    },
+    {
+        "name": "id",
+        "type": "INTEGER"
+    }
+]
